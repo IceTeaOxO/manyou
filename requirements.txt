@@ -1,0 +1,8 @@
+PyQt5
+yt-dlp
+whisper 
+openai-whisper 
+pyannote.audio 
+torch 
+moviepy
+certifi
